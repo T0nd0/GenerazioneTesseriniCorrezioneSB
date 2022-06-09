@@ -16,6 +16,6 @@ public interface Licenza {
 
 	void setTitolare(Persona titolare);
 	
-	boolean isValid();
+	boolean isValid();// commento
 
 }
